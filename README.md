@@ -1,6 +1,6 @@
 # Work-Platform-Web-Application
 
-Link to web application: https://workhub.pythonanywhere.com/
+Link to web application: https://workhubagency.pythonanywhere.com/
 
 Work Agency is a new start company mainly focus on staffing and recruitment. We help link employers to employees through our platform. What makes our platform unique is that you only get the best quality brilliant mind here. Though available to everyone, We've been able to streamline staffing through an algorithm that's largely based on performance. Enabling companies to get the best quality staffs within their organization . 
 
@@ -8,7 +8,7 @@ Also we ensure that these quality workers get the best job offers out there in o
 
 Full Stack Web Development done by Aderibigbe Ayomide Oluwabusayo
 
-Usage: the web application can be directly used and accessed rom https://workhub.pythonanywhere.com/ It's user friendly, login if you have a registed account with the site, otherwise signup for a new account. Then you're granted free access to get the weather data of any city around the world. The site if up and running 24/7, so feel free to make use of it at anytime.
+Usage: the web application can be directly used and accessed rom https://workhubagency.pythonanywhere.com/ It's user friendly, login if you have a registed account with the site, otherwise signup for a new account. Then you're granted free access to get the weather data of any city around the world. The site if up and running 24/7, so feel free to make use of it at anytime.
 
 Contributing: We're open for contributions in regards to errors correction, algorithm efficiency or upgrades to the web application. Those who have made contributions would be listed in the contribution list.
 
